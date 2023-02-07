@@ -85,7 +85,7 @@ nav li {
 /*-- Main Title --*/
 
 .main-background-img {
-  background-image: url(/Resources/Images/Planner\ and\ chisel.jpg);
+  background-image: url('/Resources/Images/Planner\ and\ chisel.jpg');
   height: 400px;
   display: flex;
   align-items: center;
@@ -158,7 +158,7 @@ margin: 20px;
 }
 
 .team-background-img {
-  background-image: url(/Resources/Images/andrey-haimin-q2Fyzn-KJOQ-unsplash.jpg);
+  background-image: url('/Resources/Images/andrey-haimin-q2Fyzn-KJOQ-unsplash.jpg');
   height: 600px;
   display: flex;
   align-items: center;
