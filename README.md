@@ -1,6 +1,6 @@
 # **Description**
 
-This project is a test for a future website I will use for my woodworking business, and it is made in HTML, CSS, and (optional) JavaScript. 
+This project is a test for a future website I will use for my woodworking business, and is made with HTML, CSS, and JavaScript. 
 
 I gladly welcome others to contribute by submitting their own code as this is a great starting project. 
 
